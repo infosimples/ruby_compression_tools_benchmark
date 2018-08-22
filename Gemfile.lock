@@ -1,0 +1,29 @@
+GIT
+  remote: https://github.com/chewi/bzip2-ruby.git
+  revision: 92d492c2b40c32a5c039314666655ebc2f52a817
+  specs:
+    bzip2-ruby (0.2.7)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    brotli (0.2.1)
+    lz4-ruby (0.3.3)
+    snappy (0.0.17)
+    zstd-ruby (1.3.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  brotli
+  bzip2-ruby!
+  lz4-ruby
+  snappy
+  zstd-ruby
+
+RUBY VERSION
+   ruby 2.5.1p57
+
+BUNDLED WITH
+   1.16.4
